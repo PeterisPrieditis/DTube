@@ -2,7 +2,7 @@
 <img width="91" alt="Screen Shot 2022-06-04 at 12 40 00 PM" src="https://user-images.githubusercontent.com/40780409/172035454-04e0aab7-a2ff-42d6-9399-129f617b2c9f.png">
 Welcome to DTube repository!  Go [link here] Now!
 
-##### Video Streaming platforms platforms in Web2
+##### Video Streaming platforms in Web2
 - Centralized
 - KYC required
 - High fees
