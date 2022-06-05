@@ -1,0 +1,16 @@
+type Video @entity {
+  id: ID!
+  videoID: BigInt!
+  contentURI: String
+  videoIPFSPath: String
+  name: String
+  createdAtTimestamp: BigInt!
+  creator: User!
+  owner: User!
+}
+
+type User @entity {
+  id: ID!
+  videos: [Video!]! @derivedFrom(field: "owner")
+  created: [Video!]! @derivedFrom(field: "creator")
+}
