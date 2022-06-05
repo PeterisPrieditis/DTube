@@ -1,8 +1,8 @@
 
-// npx hardhat run scripts/deployContracts.js --network rinkeby
-
-// DTube deployed to: 0x674C9E9046e0Bc8c7228555872B9052D99c79762
-// npx hardhat verify 0x674C9E9046e0Bc8c7228555872B9052D99c79762 --network rinkeby
+// npx hardhat run scripts/deployContracts.js --network mumbai
+// DTube deployed to: 0xcBd9d89d1EdE18A8E6313825b7a219c310bb41dA
+// npx hardhat verify 0xcBd9d89d1EdE18A8E6313825b7a219c310bb41dA --network mumbai
+// https://mumbai.polygonscan.com/address/0xcBd9d89d1EdE18A8E6313825b7a219c310bb41dA#code
 
 const hre = require("hardhat");
   

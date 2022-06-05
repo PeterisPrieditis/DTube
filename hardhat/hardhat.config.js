@@ -37,6 +37,7 @@ module.exports = {
     },
     rinkeby: {
       url: process.env.ETH_RINKEBY_FIGMENT,
+      //gasPrice: 9000000,
       accounts: [process.env.PRIVATE_KEY_1, process.env.PRIVATE_KEY_2, process.env.PRIVATE_KEY_3, process.env.PRIVATE_KEY_4],
     },
     celoTestnet: {
@@ -61,6 +62,7 @@ module.exports = {
   etherscan: {
     apiKey: {
       rinkeby: process.env.ETHERSCAN_API_KEY,
+      polygonMumbai: process.env.POLYGONSCAN_API_KEY,
     }
   },
   abiExporter: {
