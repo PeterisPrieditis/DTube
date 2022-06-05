@@ -1,6 +1,6 @@
 # DTube 
 <img width="91" alt="Screen Shot 2022-06-04 at 12 40 00 PM" src="https://user-images.githubusercontent.com/40780409/172035454-04e0aab7-a2ff-42d6-9399-129f617b2c9f.png">
-Welcome to DTube repository!  [Go to DTube Now](https://detube.vercel.app/)!
+Welcome to DTube repository!  Go to [DTube](https://detube.vercel.app) Now!
 
 [Google presentation](https://docs.google.com/presentation/d/1f9LPbBs8pBeN55UaWnnNeViGVNR-7DFArgO4vkJDS7U/edit?usp=sharing)
 
