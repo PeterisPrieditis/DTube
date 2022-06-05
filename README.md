@@ -1,6 +1,8 @@
-# DTube https://detube.vercel.app/
+# DTube 
 <img width="91" alt="Screen Shot 2022-06-04 at 12 40 00 PM" src="https://user-images.githubusercontent.com/40780409/172035454-04e0aab7-a2ff-42d6-9399-129f617b2c9f.png">
-Welcome to DTube repository!  Go [link here] Now!
+Welcome to DTube repository!  [Go to DTube Now!](https://detube.vercel.app/)
+
+[Google presentation](https://docs.google.com/presentation/d/1f9LPbBs8pBeN55UaWnnNeViGVNR-7DFArgO4vkJDS7U/edit?usp=sharing)
 
 ##### Video Streaming platforms in Web2
 - Centralized
@@ -15,17 +17,13 @@ Welcome to DTube repository!  Go [link here] Now!
 - Decentralized
 - No KYC
 - Low fees
-- Universal
 
 
 ##### Within this repository you will find used technologies as:
 - Figment.io for the RPC
-- PKT RPC for Gnosis
-- Transak to enable FIAT-to-crypto buy option
-- STORJ IPFS to host the user’s pledge contents
-- SKYNET to host the frontend assets
-- The Graph to store the users’ data
-- Coinbase Wallet
+- Polygone Mumbai for smart contract
+- The Graph to give front end content creator playlists
+
 
 
 ## Work Flow
